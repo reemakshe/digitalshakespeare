@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Digital Shakespeare</title>
+    <link href="https://reemakshe.github.io/digitalshakespeare/feed.xml" rel="self" />
+    <link href="https://reemakshe.github.io/digitalshakespeare" />
+    <updated>2022-10-12T10:40:58-07:00</updated>
+    <author>
+        <name>RK</name>
+    </author>
+    <id>https://reemakshe.github.io/digitalshakespeare</id>
+
+    <entry>
+        <title>Meet the project team</title>
+        <author>
+            <name>RK</name>
+        </author>
+        <link href="https://reemakshe.github.io/digitalshakespeare/meet-the-project-team.html"/>
+        <id>https://reemakshe.github.io/digitalshakespeare/meet-the-project-team.html</id>
+
+        <updated>2022-10-12T10:40:58-07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://reemakshe.github.io/digitalshakespeare/media/posts/2/Shakespeare_signature_6.jpeg" alt="" />
+                    Jane Bruin Principal Investigator
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://reemakshe.github.io/digitalshakespeare/media/posts/2/Shakespeare_signature_6.jpeg" alt="" />
+                <h2>Jane Bruin</h2>
+<h3>Principal Investigator</h3>
+<figure class="post__image"><img loading="lazy"  src="https://reemakshe.github.io/digitalshakespeare/media/posts/2//Jane-Bruin-copy.jpg" sizes="100vw" srcset="https://reemakshe.github.io/digitalshakespeare/media/posts/2//responsive/Jane-Bruin-copy-xs.jpg 300w ,https://reemakshe.github.io/digitalshakespeare/media/posts/2//responsive/Jane-Bruin-copy-sm.jpg 480w ,https://reemakshe.github.io/digitalshakespeare/media/posts/2//responsive/Jane-Bruin-copy-md.jpg 768w ,https://reemakshe.github.io/digitalshakespeare/media/posts/2//responsive/Jane-Bruin-copy-lg.jpg 1024w ,https://reemakshe.github.io/digitalshakespeare/media/posts/2//responsive/Jane-Bruin-copy-xl.jpg 1360w ,https://reemakshe.github.io/digitalshakespeare/media/posts/2//responsive/Jane-Bruin-copy-2xl.jpg 1600w"  alt="Pic of jane bruin" width="250" height="250"></figure>
+<p> </p>
+<h2>Joe Bruin</h2>
+<h3>GSR</h3>
+<figure class="post__image"><img loading="lazy"  src="https://reemakshe.github.io/digitalshakespeare/media/posts/2//Joe-Bruin-cropped-640x640.jpeg" sizes="100vw" srcset="https://reemakshe.github.io/digitalshakespeare/media/posts/2//responsive/Joe-Bruin-cropped-640x640-xs.jpeg 300w ,https://reemakshe.github.io/digitalshakespeare/media/posts/2//responsive/Joe-Bruin-cropped-640x640-sm.jpeg 480w ,https://reemakshe.github.io/digitalshakespeare/media/posts/2//responsive/Joe-Bruin-cropped-640x640-md.jpeg 768w ,https://reemakshe.github.io/digitalshakespeare/media/posts/2//responsive/Joe-Bruin-cropped-640x640-lg.jpeg 1024w ,https://reemakshe.github.io/digitalshakespeare/media/posts/2//responsive/Joe-Bruin-cropped-640x640-xl.jpeg 1360w ,https://reemakshe.github.io/digitalshakespeare/media/posts/2//responsive/Joe-Bruin-cropped-640x640-2xl.jpeg 1600w"  alt="" width="250" height="250"></figure>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+</feed>

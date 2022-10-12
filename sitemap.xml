@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://reemakshe.github.io/digitalshakespeare/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://reemakshe.github.io/digitalshakespeare/</loc>
+</url>
+<url>
+<loc>https://reemakshe.github.io/digitalshakespeare/meet-the-project-team.html</loc>
+<lastmod>2022-10-12T10:40:58-07:00</lastmod>
+<image:image>
+<image:loc>https://reemakshe.github.io/digitalshakespeare/media/posts/2/Shakespeare_signature_6.jpeg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://reemakshe.github.io/digitalshakespeare/media/posts/2//Jane-Bruin-copy.jpg</image:loc>
+<image:title><![CDATA[Pic of jane bruin]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://reemakshe.github.io/digitalshakespeare/media/posts/2//Joe-Bruin-cropped-640x640.jpeg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://reemakshe.github.io/digitalshakespeare/welcome-to-digital-shakespeare.html</loc>
+<lastmod>2022-10-12T10:22:15-07:00</lastmod>
+</url>
+</urlset>
